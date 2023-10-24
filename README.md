@@ -1,3 +1,5 @@
+<img src="https://github.com/ozturksirin/task/assets/92751534/dd771641-cb89-407e-9265-3ef2bef3b380" alt="1" width="300"/>
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
